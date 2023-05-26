@@ -50,7 +50,7 @@ From now on, this sheet will be referred to as the Employee Use Sheet.(the Emplo
 3. Copy this sheet (named "従業員使用欄) into the spreadsheet ([Group Progress Spread Sheet](https://docs.google.com/spreadsheets/d/1mvpnQwoCilJOkV8Fd38NQYfLjlWX19yup5-WdY80hgg/edit#gid=2139183357).) that controls all associations. This copied sheet will be the source of data to be posted, and will be the sheet to be changed when the number of members changes in the future.
 
 
-<img width="250" alt="従業員使用欄(Employee Use Sheet)" src="https://github.com/TakumiSenaha/Group-Reservation-Information-Management-System-for-Accommodation/assets/117294735/28f85a3b-938a-4bf7-9a92-126b398a851e"> 従業員使用欄 (Employee Use Sheet)--(copy)-→ [Group Progress Spread Sheet](https://docs.google.com/spreadsheets/d/1mvpnQwoCilJOkV8Fd38NQYfLjlWX19yup5-WdY80hgg/edit#gid=2139183357).
+<img width="250" alt="従業員使用欄(Employee Use Sheet)" src="https://github.com/TakumiSenaha/Group-Reservation-Information-Management-System-for-Accommodation/assets/117294735/28f85a3b-938a-4bf7-9a92-126b398a851e"> 従業員使用欄 (Employee Use Sheet)--(copy)--> [Group Progress Spread Sheet](https://docs.google.com/spreadsheets/d/1mvpnQwoCilJOkV8Fd38NQYfLjlWX19yup5-WdY80hgg/edit#gid=2139183357).
 
 
 4. Press the "Update" button on the "実行ボタン" sheet in the [Group Progress Spread Sheet](https://docs.google.com/spreadsheets/d/1mvpnQwoCilJOkV8Fd38NQYfLjlWX19yup5-WdY80hgg/edit#gid=2139183357).
