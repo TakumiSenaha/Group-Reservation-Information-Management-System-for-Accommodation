@@ -6,9 +6,9 @@ At the time of receiving the reservation of the group, the meal information of t
 ## Required Environment
 The formad used for the work should be the following three spreadsheets.
 
-- [Group Customer Input Spreadsheet](https://docs.google.com/spreadsheets/d/1oHRdbQT32SkUCDo0EikGdgOeN_frALkVF9Me3fhdNWk/edit#gid=1777565758)
-- [Group Progress Spread Sheet](https://docs.google.com/spreadsheets/d/1mvpnQwoCilJOkV8Fd38NQYfLjlWX19yup5-WdY80hgg/edit#gid=2139183357)
-- [Shift Sheet](https://docs.google.com/spreadsheets/d/1UAnPwGwvtmEpA_Lh_RjVc5R0XhRrI5_wB_CGNRZQb8Y/edit#gid=1166032143)
+- [Group Customer Input Spreadsheet](https://docs.google.com/spreadsheets/d/1oHRdbQT32SkUCDo0EikGdgOeN_frALkVF9Me3fhdNWk/edit#gid=1777565758) (For customers to enter reservation information)
+- [Group Progress Spread Sheet](https://docs.google.com/spreadsheets/d/1mvpnQwoCilJOkV8Fd38NQYfLjlWX19yup5-WdY80hgg/edit#gid=2139183357) (For employees to manage their organizations.)
+- [Shift Sheet](https://docs.google.com/spreadsheets/d/1UAnPwGwvtmEpA_Lh_RjVc5R0XhRrI5_wB_CGNRZQb8Y/edit#gid=1166032143) (For employees to manage their work hours.)
 
 Copy them to your own Google Drive and embed the GAS program into ***Group Progress Spread Sheet***. (you will need to put the spreadsheet key in the designated place in the code).
 
