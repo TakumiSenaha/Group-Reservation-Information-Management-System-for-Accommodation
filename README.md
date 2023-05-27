@@ -15,7 +15,15 @@ Copy them to your own Google Drive and embed the GAS program into ***Group Progr
 Currently, access is restricted and not all of them are available for viewing. If necessary, some of them will be introduced in the descriptions below.
 
 ## Procedure
-1. After a group reservation is made, you will be asked to enter the information of the group guests in a formad like the spreadsheet → [Group Customer Input Spreadsheet](https://docs.google.com/spreadsheets/d/1oHRdbQT32SkUCDo0EikGdgOeN_frALkVF9Me3fhdNWk/edit#gid=1777565758).
+1. After accepting the reservation, enter the name of the group, tentative number of people, etc. in the "○月_フロント用シート"("○month_Front Desk Sheet") in the [Group Progress Spread Sheet](https://docs.google.com/spreadsheets/d/1mvpnQwoCilJOkV8Fd38NQYfLjlWX19yup5-WdY80hgg/edit#gid=2139183357). (The reservation month corresponds to ○.)
+
+gazou
+
+※ If this is the first reservation for the month, copy and rename the master sheet.
+
+---
+
+2. After a group reservation is made, you will be asked to enter the information of the group guests in a formad like the spreadsheet → [Group Customer Input Spreadsheet](https://docs.google.com/spreadsheets/d/1oHRdbQT32SkUCDo0EikGdgOeN_frALkVF9Me3fhdNWk/edit#gid=1777565758).
 
 <img width="800" alt="groupInput_1" src="https://github.com/TakumiSenaha/Group-Reservation-Information-Management-System-for-Accommodation/assets/117294735/3b649e89-e3a1-499d-a87b-acc50f5f167b">
 
