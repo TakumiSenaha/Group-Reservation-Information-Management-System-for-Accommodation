@@ -17,7 +17,7 @@ Currently, access is restricted and not all of them are available for viewing. I
 ## Procedure
 1. After accepting the reservation, enter the name of the group, tentative number of people, etc. in the "○月_フロント用シート"("○month_Front Desk Sheet") in the [Group Progress Spread Sheet](https://docs.google.com/spreadsheets/d/1mvpnQwoCilJOkV8Fd38NQYfLjlWX19yup5-WdY80hgg/edit#gid=2139183357). (The reservation month corresponds to ○.)
 
-gazou
+![front_sheet](/images/Nan_front_sheet.png)
 
 ※ If this is the first reservation for the month, copy and rename the master sheet.
 
