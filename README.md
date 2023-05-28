@@ -125,6 +125,8 @@ Custom tabs have been added at the top of the page to allow "update functions" f
 ### Update ("すべて更新")
 * You can click the Update button, i.e., update the sheet, on any page.
 ### Send an email update ("更新メールを送る")
+<img width="800" alt="demo_send_mail_gif" src="/images/demo_send_mail_gif.gif">
+
 * When you make a change to your organization's information on a page, you can send an update e-mail to ***[Chatwork](https://go.chatwork.com/ja/lp/remarketing_08/?adcode=onad_yasm_FV_money_original&utm_source=yahoo&utm_medium=cpc&utm_campaign=brand&utm_term=chatwork&utm_content=602339640601&yclid=YSS.1000425224.EAIaIQobChMI546nt8-X_wIVUsxMAh3BaQ-IEAAYASAAEgJuXPD_BwE)*** on the spot.
 
 ※ Account token and room ID must be given to the program
