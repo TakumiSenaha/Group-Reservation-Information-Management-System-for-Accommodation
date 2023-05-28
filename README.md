@@ -17,24 +17,28 @@ Currently, access is restricted and not all of them are available for viewing. I
 ## Demonstration
 * When a reservation is made, enter the name of the group, check-in date, check-out date, etc. on the ~month_Front Desk Sheet in the **Group Progress Spread Sheet**.
 
-![demo_putInFrontSheet](/images/demo_putInFrontSheet_gif.gif)
+<img width="600" alt="demo_putInFrontSheet" src="/images/demo_putInFrontSheet_gif.gif">
+
 
 ---
 
 * After the client has submitted the Spreadsheet (**Group Customer Input Spreadsheet**) with his/her lodging information, copy the last page of the Spreadsheet, prepare a copy of the "Original Employee Use (従業員使用欄の原本)" sheet in the **Group Progress Spread Sheet** as a foundation, and stick it to it.
 
-![demo_putInFrontSheet](/images/demo_copyToProgressSheet_gif.gif)
+<img width="600" alt="demo_putInFrontSheet" src="/images/demo_copyToProgressSheet_gif.gif">
+
 
 ---
 
 * If there is a new reservation, a change in the number of people, or a change in the number of meals, press the Update button, and the changes will be reflected in the Calendar in the **Group Progress Spread Sheet** and **shift Sheets**.
 
-![demo_putInFrontSheet](/images/demo_update_gif.gif)
+<img width="600" alt="demo_putInFrontSheet" src="/images/demo_update_gif.gif">
+
 
 ## Procedure (details of Demonstration Video)
 1. After accepting the reservation, enter the name of the group, tentative number of people, etc. in the "○月_フロント用シート"("○month_Front Desk Sheet") in the [Group Progress Spread Sheet](https://docs.google.com/spreadsheets/d/1mvpnQwoCilJOkV8Fd38NQYfLjlWX19yup5-WdY80hgg/edit#gid=2139183357). (The reservation month corresponds to ○.)
 
-![front_sheet](/images/Nan_front_sheet.png)
+<img width="400" alt="front_sheet" src="/images/Nan_front_sheet.png">
+
 
 ※ If this is the first reservation for the month, copy and rename the master sheet.
 
@@ -42,7 +46,7 @@ Currently, access is restricted and not all of them are available for viewing. I
 
 2. After a group reservation is made, you will be asked to enter the information of the group guests in a formad like the spreadsheet → [Group Customer Input Spreadsheet](https://docs.google.com/spreadsheets/d/1oHRdbQT32SkUCDo0EikGdgOeN_frALkVF9Me3fhdNWk/edit#gid=1777565758).
 
-<img width="800" alt="groupInput_1" src="https://github.com/TakumiSenaha/Group-Reservation-Information-Management-System-for-Accommodation/assets/117294735/3b649e89-e3a1-499d-a87b-acc50f5f167b">
+<img width="400" alt="groupInput_1" src="/images/groupInput_1">
 
 * ↑ Notes to customers, etc ↑
 
