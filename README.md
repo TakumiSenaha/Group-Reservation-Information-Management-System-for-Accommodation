@@ -118,29 +118,25 @@ If a new group makes a reservation, perform step (1), and if the number of peopl
 
 # Other fine features
 ## Custom Tab
-Custom tabs have been added at the top of the page to allow "update functions" from any page, update emails, and saving or deleting last month's group sheets.
-
 <img width="400" alt="custom_items" src="/images/custom_items.png">
 
-### Update ("すべて更新")
-* You can click the Update button, i.e., update the sheet, on any page.
-### Send an email update ("更新メールを送る")
+Custom tabs have been added at the top of the page to allow "update functions" from any page, update emails, and saving or deleting last month's group sheets.
+
+* ### Update ("すべて更新")
+  * You can click the Update button, i.e., update the sheet, on any page.
+* ### Send an email update ("更新メールを送る")
 <img width="800" alt="demo_send_mail_gif" src="/images/demo_send_mail_gif.gif">
 
-* When you make a change to your organization's information on a page, you can send an update e-mail to ***[Chatwork](https://go.chatwork.com/ja/lp/remarketing_08/?adcode=onad_yasm_FV_money_original&utm_source=yahoo&utm_medium=cpc&utm_campaign=brand&utm_term=chatwork&utm_content=602339640601&yclid=YSS.1000425224.EAIaIQobChMI546nt8-X_wIVUsxMAh3BaQ-IEAAYASAAEgJuXPD_BwE)*** on the spot.
+  * When you make a change to your organization's information on a page, you can send an update e-mail to ***[Chatwork](https://go.chatwork.com/ja/lp/remarketing_08/?adcode=onad_yasm_FV_money_original&utm_source=yahoo&utm_medium=cpc&utm_campaign=brand&utm_term=chatwork&utm_content=602339640601&yclid=YSS.1000425224.EAIaIQobChMI546nt8-X_wIVUsxMAh3BaQ-IEAAYASAAEgJuXPD_BwE)*** on the spot.  
+    ※ Account token and room ID must be given to the program
 
-※ Account token and room ID must be given to the program
+* ### Copy last month's individual group materials to the Drive. ("先月分の団体個別資料を保存用へ移動")
+  * After the stay, materials that are no longer needed can be saved to any location on the drive for archival purposes.  
+    ※ Specify the save location by specifying the Google Drive key in the program. 
+    ※ At this time, the reservation group before the month specified in the "Execute button (実行ボタン)" sheet is targeted.
 
-### Copy last month's individual group materials to the Drive. ("先月分の団体個別資料を保存用へ移動")
-* After the stay, materials that are no longer needed can be saved to any location on the drive for archival purposes.
-
-※ Specify the save location by specifying the Google Drive key in the program. 
-
-※ At this time, the reservation group before the month specified in the "Execute button (実行ボタン)" sheet is targeted.
-
-### Delete individual group documents that are no longer needed from this spreadsheet (Group Progress Spread Sheet).
-* After the stay, materials that are no longer needed can be saved to any location on the Drive for archival purposes.
-※ At this time, the reservation group before the month specified in the "Execute button (実行ボタン)" sheet is targeted.
-
-※ Before performing this operation, you must copy the sheets to the Drive by executing "Copy last month's individual group documents to storage ("先月分の団体個別資料を保存用へ移動")" or you will not be able to view the sheets again.
+* ### Delete individual group documents that are no longer needed from this spreadsheet (Group Progress Spread Sheet).
+  * After the stay, materials that are no longer needed can be saved to any location on the Drive for archival purposes.  
+    ※ At this time, the reservation group before the month specified in the "Execute button (実行ボタン)" sheet is targeted.  
+    ※ Before performing this operation, you must copy the sheets to the Drive by executing "Copy last month's individual group documents to storage ("先月分の団体個別資料を保存用へ移動")" or you will not be able to view the sheets again.
 
