@@ -86,8 +86,8 @@ function hadle_carry_over_from_last_month(year, month_num) {
       new_dietary_info.push(new_dietary_info_1, new_dietary_info_2);
       //console.log(new_dietary_info_1);
       //console.log(new_dietary_info_2);
-      calendar_sheet.getRange(5 + num_of_carry_over_group+1, 5, 2, 93).clearContent();
-      calendar_sheet.getRange(5 + num_of_carry_over_group+1, check_in_date * 3 + 2, 2, num_of_days_to_stay * 3).setValues(new_dietary_info);
+      calendar_sheet.getRange(6 + (num_of_carry_over_group*3), 5, 2, 93).clearContent();
+      calendar_sheet.getRange(6 + (num_of_carry_over_group*3), check_in_date * 3 + 2, 2, num_of_days_to_stay * 3).setValues(new_dietary_info);
       num_of_carry_over_group += 1;
     }
   }
